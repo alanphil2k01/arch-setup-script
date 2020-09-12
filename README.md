@@ -1,0 +1,2 @@
+# My arch rice script
+
